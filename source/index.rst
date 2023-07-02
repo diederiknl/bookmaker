@@ -12,7 +12,9 @@ Security && Cyberwarfare
 Week 1
 =====================================
 
-Dit gaan we doen in week 1.
+Even kijken of images werken.
+
+.. image:: week_1/image.png
 
 .. * :ref:`genindex`
 .. * :ref:`modindex`
