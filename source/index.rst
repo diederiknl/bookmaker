@@ -23,3 +23,5 @@ This is just a silly addition
 =====================================
 
 And another one
+
+Supertof. Volgens mij werkt het geautomatiseerd bouwen
