@@ -26,7 +26,10 @@ Dus *dit* is italic en dit is **bold**?
 
 
 
+Hoe werkt het met bronvermeldingen? Volgens [DIEDERIK]_.
+Is het leven af en toe best pittig
 
+.. [DIEDERIK] Een citaat
 
 
 
