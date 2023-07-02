@@ -12,12 +12,12 @@ Welcome to Bookmaker's documentation!
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+..Indices and tables
+  ==================
+  
+  * :ref:`genindex`
+  * :ref:`modindex`
+  * :ref:`search`
 
 This is just a silly addition
 =====================================
