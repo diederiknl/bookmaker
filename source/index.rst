@@ -30,6 +30,8 @@ Doctest
 >>> 1 + 1
 Maar dat is vet
 
+>>> En weer vet
+
 
 Hoe werkt het met bronvermeldingen? Volgens [DIEDERIK]_.
 Is het leven af en toe best pittig
