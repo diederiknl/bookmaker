@@ -28,6 +28,7 @@ Dus *dit* is italic en dit is **bold**?
 Doctest
 =====================================
 >>> 1 + 1
+Maar dat is vet
 
 
 Hoe werkt het met bronvermeldingen? Volgens [DIEDERIK]_.
