@@ -12,12 +12,6 @@ Welcome to Bookmaker's documentation!
 
 
 
-..Indices and tables
-  ==================
-  
-  * :ref:`genindex`
-  * :ref:`modindex`
-  * :ref:`search`
 
 This is just a silly addition
 =====================================
@@ -27,3 +21,11 @@ And another one
 Supertof. Volgens mij werkt het geautomatiseerd bouwen
 
 Laatste test. Build 17 is de laatste
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
