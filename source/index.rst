@@ -18,9 +18,24 @@ Even kijken of images werken.
 
 Werkt!
 
-Hoe zit het met die box?
+Door naar opmaak
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-\sphinxbox{Dit is een sphinxbox?}
+Dus *dit* is italic en dit is **bold**?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .. * :ref:`genindex`
 .. * :ref:`modindex`
