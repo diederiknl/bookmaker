@@ -13,14 +13,16 @@ Welcome to Bookmaker's documentation!
 
 
 
-This is just a silly addition
+Hoofdstuk 1
 =====================================
 
-And another one
+Hoofdstuk 2
+=====================================
 
-Supertof. Volgens mij werkt het geautomatiseerd bouwen
+Volgens mij kan ik hier een klein hoofdstukje mee maken
+-------------------------------------
 
-Laatste test. Build 17 is de laatste
+
 
 
 Indices and tables
