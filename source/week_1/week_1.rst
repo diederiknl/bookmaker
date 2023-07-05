@@ -12,3 +12,10 @@ Week 1 wil een *level playing field* geven voor alle studenten. Na het doornemen
 
 .. include:: cia.rst
 
+~~~~~~~~~~~~~~~~~~~
+The Stack
+~~~~~~~~~~~~~~~~~~~
+
+We zullen veel van de gevoeligheden bekijken aan iets wat ik een *stack* ben gaan noemen. In deze is de stack een verzameling objecten wat allemaal kapot kan.
+
+.. image :: images/stack.png
