@@ -1,14 +1,9 @@
 #####################################
-Week 2 - OWASP, 
+Week 2 - OWASP, CVE, CWE en meer
 #####################################
-Inhoud van deze week
-
-#belangrijk
-# belangrijk
 
 
 
 
-*************************************
-Week 2 - Weekopdracht
-*************************************
+
+.. include:: weekopdracht.rst
