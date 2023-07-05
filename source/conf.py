@@ -45,3 +45,7 @@ language = 'nl'
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+latex_elements = {
+  'extraclassoptions': 'openany,oneside'
+}
+
