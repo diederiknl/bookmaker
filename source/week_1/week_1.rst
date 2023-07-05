@@ -40,3 +40,12 @@ Exploit
 De aanvaller kan dan gaan kijken hoe hij de vulnerability kan gaan *exploiten*, oftwel: misbruiken. Een **exploit is dus een stuk programma om misbruik te maken van een vulnerability**. De exploit heeft vaak als doel om verder toegang te krijgen tot het operating system van het systeem waar het oorspronkelijke programma op draait. De hacker krijgt dan de mogelijkheid om *lateraal te bewegen* door het netwerk, oftwel het verkrijgen van toegang op het netwerk met dezelfde rechten als degene die de software draait. Op het moment dat de hacker probeert om meer rechten te krijgen dan hebben we het over *privilege escalation*. In dit geval probeert de hacker via de gebruiker bijvoorbeeld de rol van **Administrator** of **root** te krijgen.
 
 Bijzonder interessant leesvoer in deze is de `**Cyber Kill Chain** <https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html>`_ van *Lockheed Martin*. 
+
+~~~~~~~~~~~~~~~~~~~
+The Stack
+~~~~~~~~~~~~~~~~~~~
+
+We zullen veel van de gevoeligheden bekijken aan iets wat ik een *stack* ben gaan noemen. In deze is de stack een verzameling objecten wat allemaal kapot kan.
+
+.. image :: images/stack.png
+
