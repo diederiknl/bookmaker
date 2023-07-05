@@ -9,21 +9,10 @@ Security && Cyberwarfare
 
 
 
-Week 1
-=====================================
 
-Even kijken of images werken.
+.. include::week_1/week_1.rst
 
-.. image:: week_1/image.png
 
-Test voor Esther
-=====================================
-Hallo :underline: Esther!
-
-Door naar opmaak
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Dus *dit* is italic en dit is **bold**?
 
 Doctest
 =====================================
@@ -32,11 +21,6 @@ Maar dat is vet
 
 >>> En weer vet
 
-
-Hoe werkt het met bronvermeldingen? Volgens [DIEDERIK]_.
-Is het leven af en toe best pittig
-
-.. [DIEDERIK] Een citaat
 
 
 
