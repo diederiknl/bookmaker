@@ -9,7 +9,7 @@ Security && Cyberwarfare
    over_deze_reader/over_deze_reader.rst
    bijdragen/bijdragen.rst
    week_1/week_1.rst
-   week_2/week_2.md
+   week_2/week_2.rst
    week_3/week_3.rst
    week_4/week_4.rst
    week_5/week_5.rst
