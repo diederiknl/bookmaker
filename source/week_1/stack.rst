@@ -6,23 +6,25 @@ We zullen veel van de gevoeligheden bekijken aan iets wat ik een *stack* ben gaa
 
 .. image :: images/stack.png
 
-# Netwerk
+----------------
+Netwerk
+----------------
 
 Elke computer is tegenwoordig verbonden met elkaar. Een applicatie heeft een *socket* nodig op het operating system om te communiceren tussen applicaties en applicaties die geïnstalleerd zijn op een andere computer.
 Als die socket niet goed geprogrammeerd is, dan is daar een aanvalsvector beschikbaar.
 
-# Hardware
-
+----------------
+Hardware
+----------------
 Hardware zorgt voor het aan kunnen sluiten van een computer aan het netwerk, het invoeren en het uitvoeren van data. Alleen: ook hardware is niet onfeilbaar. Het gaat íets ver om op in te gaan, maar neem in ieder geval mee:
 
 1) Als je bij de data kan die op hardware staat, dan ben je de eigenaar van die data. Als ik bijvoorbeeld in een ziekenhuis een laptop mee zou nemen, dan zou ik bij die data kunnen door bijvoorbeeld de harde schijf uit te bouwen. Een oplossing hier is *encryptie*. Hier gaan we later naar kijken.
 2) Mocht je dit vak écht leuk vinden, dan kan je eens zoeken naar de begrippen *side-channel analyse*. Ook **Meltdown** en **Spectre** is leuk (maar pittig!) leesvoer.
 
 .. image :: images/spectre.svg.png
-    :width: 400
-    :alt: Alternative text
+    :width: 300
     
-
+    
 ----------------
 Operating system
 ----------------
