@@ -41,11 +41,5 @@ De aanvaller kan dan gaan kijken hoe hij de vulnerability kan gaan *exploiten*, 
 
 Bijzonder interessant leesvoer in deze is de `**Cyber Kill Chain** <https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html>`_ van *Lockheed Martin*. 
 
-~~~~~~~~~~~~~~~~~~~
-The Stack
-~~~~~~~~~~~~~~~~~~~
-
-We zullen veel van de gevoeligheden bekijken aan iets wat ik een *stack* ben gaan noemen. In deze is de stack een verzameling objecten wat allemaal kapot kan.
-
-.. image :: images/stack.png
+.. include :: stack.rst
 
