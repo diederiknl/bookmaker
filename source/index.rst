@@ -16,7 +16,6 @@ Security && Cyberwarfare
    week_6/week_6.rst
    week_7/week_7.rst
    licentie/licentie.rst
-   
 
 .. * :ref:`genindex`
 .. * :ref:`modindex`
