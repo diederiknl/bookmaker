@@ -1,5 +1,6 @@
+#####################################
 Week 1 - Basis
-=====================================
+#####################################
 
 Week 1 wil een *level playing field* geven voor alle studenten. Na het doornemen van week 1 weet je de grondbeginselen van information security:
 
