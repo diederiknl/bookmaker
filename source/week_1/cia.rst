@@ -1,6 +1,7 @@
 
+=================================================
 CIA - Confidentiality, Integrity and Availability
-=====================================
+=================================================
 
 Confidentiality, Integrity en Availability, vertaald in het Nederlands Vertrouwelijkheid, Integriteit en Beschikbaarheid (de "BIV-driehoek") is één van de grondbeginselen van informatiebeveiliging
 In de basis heb je te kijken naar alle drie van de begrippen. Je kan ook niet één van de onderdelen weglaten, want dan zou je te kort doen aan het geheel van informatiebeveiliging.
