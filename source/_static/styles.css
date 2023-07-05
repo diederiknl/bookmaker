@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:700&amp;subset=latin-ext";
+@import "https://fonts.googleapis.com/css?family=Open+Sans";
 
 h1,
 h2,
@@ -8,7 +8,7 @@ h5,
 h6 {
   margin-top: 0;
   font-weight: 700;
-  font-family: "Saira Extra Condensed", Arial, sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
 }
 
 h1,
