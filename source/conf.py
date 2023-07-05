@@ -49,3 +49,9 @@ latex_elements = {
   'extraclassoptions': 'openany,oneside'
 }
 
+# https://stackoverflow.com/questions/47643795/how-to-use-custom-woff2-and-oft-fonts-with-sphinx
+# Bedoeld om Extra fonts toe te voegen
+
+def setup(app):
+    app.add_stylesheet('styles.css')
+
