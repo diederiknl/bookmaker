@@ -1,5 +1,5 @@
 Bijdragen of fouten melden
-===
+=====================================
 
 Wil je iets bijdragen aan deze reader? Heb je een fout gevonden?
 
