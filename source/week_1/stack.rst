@@ -19,7 +19,9 @@ Hardware zorgt voor het aan kunnen sluiten van een computer aan het netwerk, het
 2) Mocht je dit vak écht leuk vinden, dan kan je eens zoeken naar de begrippen *side-channel analyse*. Ook **Meltdown** en **Spectre** is leuk (maar pittig!) leesvoer.
 
 .. image :: images/spectre.svg.png
-    :width: 60
+    :width: 400
+    :alt: Alternative text
+    
 
 ----------------
 Operating system
