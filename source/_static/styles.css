@@ -1,5 +1,11 @@
 /* @import "https://fonts.googleapis.com/css?family=Open+Sans"; */
 
+body {
+  font-family: "Open Sans";
+  src: url("open_sans/OpenSans-Regular.ttf");
+  font-size: 11px;
+}
+,
 h1,
 h2,
 h3,
