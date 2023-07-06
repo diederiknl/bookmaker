@@ -10,5 +10,5 @@ Deze week
 
 Hier include van OWASP/owasp.rst
 
-.. include :: OWASP/owasp.rst
+.. include :: ./OWASP/owasp.rst
 
