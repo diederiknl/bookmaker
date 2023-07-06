@@ -23,6 +23,7 @@ Hardware zorgt voor het aan kunnen sluiten van een computer aan het netwerk, het
 
 .. image :: images/spectre.svg.png
     :width: 300
+    :align: center
     
     
 ----------------
