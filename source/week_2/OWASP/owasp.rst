@@ -13,3 +13,7 @@ Ze zijn bekend om een aantal zaken:
 Naast tools houden ze een aantal lijsten bij voor lering en vermaek. De meest bekende hierbij is de **OWASP TOP 10**. Ook noteworthy zijn de **cheatsheets** <"https://cheatsheetseries.owasp.org">_ op zekere onderwerpen. REST, NodeJS en meer zaken worden perfect behandeld!
 
 Naast dit alles is OWASP ook een community. Voor niet heel veel kosten (€20/j) kan je gratis naar meetings toe. 
+
+.. include:: owasp_top_10.rst
+
+    
