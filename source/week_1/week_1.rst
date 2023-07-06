@@ -42,6 +42,3 @@ De aanvaller kan dan gaan kijken hoe hij de vulnerability kan gaan *exploiten*, 
 Bijzonder interessant leesvoer in deze is de `**Cyber Kill Chain** <https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html>`_ van *Lockheed Martin*. 
 
 .. include :: stack.rst
-
-
-
