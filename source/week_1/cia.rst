@@ -20,7 +20,7 @@ Een misschien extremer voorbeeld is dat het bedrag op je rekening *aangepast* wo
 
 Beschikbaarheid
 -------------------------------------
-Beschikbaarheid is een makkelijker begrip. Beschikbaarheid geeft aan dat wij **bij de informatie kunnen wanneer wij dat willen, met de snelheid dat wij willen*. 
+Beschikbaarheid is een makkelijker begrip. Beschikbaarheid geeft aan dat wij **bij de informatie kunnen wanneer wij dat willen, met de snelheid dat wij willen**. 
 
 Wederom het bankvoorbeeld: leuk als ik weet dat ik €110.000 op de bank heb staan, maar als ik er niet bij kan vanwege een *dDOS* op de bank: wat heb ik er aan?
 
