@@ -1,8 +1,6 @@
 OWASP - The Open Web Application Security Project
 ************************************************** 
 
-.. image :: images/owasp_logo.png
-
 De organisatie **The Open Web Application Security Project** (OWASP) <'https://www.owasp.org'>_ is een organisatie die als doel heeft om software meer secure te maken.
 Ze zijn bekend om een aantal zaken:
 
@@ -16,4 +14,3 @@ Naast dit alles is OWASP ook een community. Voor niet heel veel kosten (€20/j)
 
 .. include:: owasp_top_10.rst
 
-    
