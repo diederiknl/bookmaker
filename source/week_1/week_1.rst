@@ -43,3 +43,5 @@ Bijzonder interessant leesvoer in deze is de `**Cyber Kill Chain** <https://www.
 
 .. include :: stack.rst
 
+
+
