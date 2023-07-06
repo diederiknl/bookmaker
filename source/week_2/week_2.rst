@@ -8,7 +8,5 @@ In week 1 hebben we het gehad over het ontstaan van exploits.
 
 Deze week 
 
-Hier include van OWASP/owasp.rst
-
-.. include :: ./OWASP/owasp.rst
+.. include :: owasp.rst
 

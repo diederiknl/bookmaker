@@ -12,7 +12,5 @@ Naast tools houden ze een aantal lijsten bij voor lering en vermaek. De meest be
 
 Naast dit alles is OWASP ook een community. Voor niet heel veel kosten (€20/j) kan je gratis naar meetings toe. 
 
-Hier include van owasp_top_10.rst
-
 .. include :: owasp_top_10.rst
 
