@@ -2,9 +2,11 @@
 Week 2 - OWASP, CVE, CWE en meer
 #####################################
 
-In week 1 hebben we het gehad over het ontstaan van exploits. 
+In week 1 hebben we het gehad over het ontstaan van exploits.
 
+.. include :: weekdoelen.rst
 
+Deze week 
 
+.. include :: OWASP/owasp.rst
 
-.. include:: weekopdracht.rst
