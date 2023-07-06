@@ -49,6 +49,7 @@ exclude_patterns = []
 # 'extraclassoptions': 'openany,oneside',
 # }
 
+latex_engine = 'xelatex'
 latex_elements = {
     'fontenc': '\\usepackage{fontspec}',
     'fontpkg': '''\
