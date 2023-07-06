@@ -49,4 +49,4 @@ latex_elements = {
   'extraclassoptions': 'openany,oneside'
 }
 
-html_css_files = ["styles.css"]
+html_css_files = ["custom.css"]
