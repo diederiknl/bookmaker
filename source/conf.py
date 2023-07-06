@@ -51,6 +51,7 @@ exclude_patterns = []
 
 latex_engine = 'xelatex'
 latex_elements = {
+'extraclassoptions': 'openany,oneside',
     'fontenc': '\\usepackage{fontspec}',
     'fontpkg': '''\
 \\setmainfont{DejaVu Serif}
