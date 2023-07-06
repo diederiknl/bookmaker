@@ -50,3 +50,4 @@ latex_elements = {
 }
 
 html_css_files = ["custom.css"]
+html_theme = "classic"
