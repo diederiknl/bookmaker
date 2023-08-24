@@ -4,6 +4,6 @@ For now, this is a project to build a book (or reader) on our module Cybersecuri
 
 It is in Dutch. Feel free to contribute on this project by sending a pull request.
 
-Cheers!
+Cheers!!
 
 Diederik
